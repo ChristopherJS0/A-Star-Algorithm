@@ -2,7 +2,6 @@
 #include <iostream>
 #include <array>
 #include <vector>
-//Christopher Salinas-Sanchez
 
 using namespace std;
 
