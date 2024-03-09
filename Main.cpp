@@ -1,4 +1,3 @@
-//Christopher Salinas-Sanchez
 #include <iostream>
 #include "Node.h"
 #include <vector>
